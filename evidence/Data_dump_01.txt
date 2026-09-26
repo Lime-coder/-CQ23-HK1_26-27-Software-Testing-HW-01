@@ -1,0 +1,689 @@
+01. https://itviec.com/it-jobs/sr-qa-engineer-from-6yoe-automation-english-yum-digital-technology-5203?lab_feature=preview_jd_page
+
+Sr. QA Engineer (from 6yoe, Automation, English)
+YUM! Digital & Technology
+2,000 - 2,900 USD
+ Block C, 4th floor, Waseco building, 10 Pho Quang,, Tan Son Hoa, Ho Chi Minh 
+ Hybrid (flexible between home and office)
+ 1 day ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+18 Annual Leave + 5 Recharge Days/ Year
+13th-month bonus
+2 days WFH/ week
+Job description
+The Senior Quality Engineer will design and drive testing activities following the test strategy of the platform to ensure the reliability, performance, and functional integrity of the Byte by Yum! Commerce Platform, supporting KFC and Taco Bell digital ordering journeys (web and native). The role contributes to test coverage for shared, platform-agnostic business logic as well as brand-specific web/native applications, balancing reusable core test frameworks with market/brand-specific validation needs.
+
+ 
+
+Key Responsibilities:
+
+• Define and drive the overall testing strategy, quality standards, and best practices spanning functional, integration, end-to-end, and performance testing across engineering teams, ensuring coverage accounts for both shared platform-level business logic and brand-specific customizations. 
+• Build and maintain scalable, maintainable automation frameworks across web and mobile applications. 
+• Perform hands-on manual and exploratory testing for new features, edge cases, and pre-release sign-off, particularly in scenarios where automation isn't practical or mature yet. 
+• Collaborate with engineering, product, and DevOps teams to embed quality into the CI/CD pipeline and development lifecycle. 
+• Oversee test planning, execution, and reporting including quality metrics such as defect escape rate and test coverage to ensure high levels of release confidence and platform reliability. 
+• Continuously evaluate and improve testing tools, frameworks, and processes to support platform growth and scalability. 
+• Lead defect management processes, ensuring issues are properly prioritized, tracked, and resolved.
+
+Your skills and experience
+• Bachelor's degree in computer science, or related technical field. 
+• 6+ years of experience in software quality assurance, with at least 1 years in a senior test role supporting large-scale e-commerce or high-volume consumer platforms
+• Proven experience leading testing strategies and quality initiatives in complex software platforms.
+• Strong hands-on experience with at least one of test automation frameworks (e.g., Maestro ,Playwright, Cypress, Selenium, Appium). Experienced working with Maestro is a plus
+• Ability to collaborate effectively across engineering, product, and DevOps teams.
+• Strong communication, and problem-solving skills in fast-paced, agile environments and a passion for delivering high-quality software
+• Ability to collaborate effectively across distributed global teams.
+• Strong spoken and written English for international collaboration.
+• Adaptable and comfortable with change : able to adjust testing priorities, tools, and approach quickly as product direction, requirements, or tech stack evolve.
+
+Why you'll love working here
+100% salary during the probation period
+18 days of annual leave per year
+Five “Recharge Days” – extra days in addition to company holidays
+One day of paid leave for your birthday
+2 days WFH/ week
+Half-day Fridays
+Full salary insurance
+13th-month bonus
+Advanced health insurance (Generali)
+Regular team and engagement activities
+LinkedIn learning and training courses, based on company policy
+MacBook and monitors
+YUM! Digital & Technology
+YUM! Digital & Technology
+
+Company type
+Company industry
+Company size
+IT Product
+IT Services and IT Consulting
+1-50
+Country
+Working days
+Overtime policy
+United States
+Monday - Friday
+No OT
+
+
+
+
+
+
+
+02. https://itviec.com/it-jobs/qa-engineer-tester-qa-qc-english-up-to-1500-saritasa-4856?lab_feature=preview_jd_page
+
+QA Engineer (Tester, QA QC, English) Up to $1500
+Saritasa
+1,000 - 1,500 USD
+ Tầng 7, toà nhà L’Mak Long Tower, số 101-103 Nguyễn Cửu Vân, Gia Dinh, Ho Chi Minh 
+ At office
+ 2 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Challenging working environment (big data and IoT)
+Balanced workplace for working and entertainment
+Competitive salary with monthly performance bonus
+Job description
+Who We Are:
+
+We are a team of talented developers, architects, managers, engineers, designers, DevOps engineers, and QA engineers using brand-new tech to solve non-trivial tasks. We work on VR (Virtual Reality), AR (Augmented Reality), IoT (Internet of Things), web projects, mobile apps, Enterprise business applications, and Unity Gaming. We create projects using Python, С#, PHP, Objective-C, JavaScript (React, Vue.js, Angular), Java, and Swift and deploy them into AWS / Azure / Google Cloud.
+
+We're all about collaboration so our teams review and test each other's code, providing regular feedback, and, in line with our Values, we're always improving.
+
+Where We Are:
+
+We believe a diverse range of backgrounds strengthens our team. We also have offices in the USA, Russia, and Vietnam. You will work in our office in Ho Chi Minh alongside our Russia-based teams.
+
+Who You Are:
+
+From 3+ years of experience as Manual QA/Tester (Priority Automation Test)
+You know the theory, principles, software testing techniques, and know-how to apply them in practice.
+You can understand in detail the specifications and requirements of the project.
+You are attentive to the details and have responsibilities.
+You have a logical/analytical mindset, are scrupulous, accurate, assiduous.
+You see the complex design requirements as a large set of simple use cases.
+You document in detail the bugs found (screenshots and videos).
+Your skills and experience
+Technologies We Use:
+
+PHP / .Net / Python from the backend’s side.
+React, Angular, jQuery from the frontend’s side
+iOS / Android mobile and tablet applications.
+JMeter / Postman.
+Git.
+Linux preferred (Mac & Windows fine as well).
+What We Appreciate:
+
+Those who are not afraid of responsibility and work for the result.
+A person who do not require micromanagement and continuous monitoring
+Good English
+The actual documentation and those who support it.
+Sense of humor.
+Preferred Skills:
+
+Experience in testing web applications.
+Experience in testing mobile applications.
+Ability to test the API.
+Comfortable using AI tools to speed up test design and daily work.
+Desire to learn new things daily is the biggest and the most important.
+Good verbal and written communication skills and the ability to analyze your own proposed solutions (and ideas) in terms of ROI (Return on Investment) would be a big advantage! 
+Recruitment Process:
+
+Apply CVs
+Screen CVs
+Online trial test
+Practical test task
+Interview in English and Vietnamese with HR, the QA Director and VN Branch Director
+You will receive an email at each step; please check your spam box as well.
+
+Why you'll love working here
+What You'll Get:
+
+Attractive Salary: $1000- $1500
+We offer a very competitive salary for our employees.
+Full paid probation. 
+Annual salary review based on performance and contribution.
+13th-month salary.
+Unused leaves in a year will be paid as a bonus.
+English learning support and getting technical certification support programs.
+Employee recognition program on company-wide.   
+Work on international projects in various fields.
+Nice and friendly working environment.
+Lots of interesting and challenging projects to work on.
+Work with smart and straight technical geeks from other countries.
+Free access to a library of educational books.
+A flexible working hours scheme is for everyone.
+In case you have personal stuff, working at home is possible.
+Can't work on that day? No worries, you can work at the weekend to keep your leave.     
+Full of snacks, fruits, ... in the kitchen to help yourself during work time.
+Need to relax? Get a buddy for a dart, table football, or ping-pong game.
+Having lunch with colleagues or watching news/sports on TV during lunchtime.  
+By default, we don't work on Saturday or Sunday, because we love to see you refreshed next week.
+Premium health insurance during the year.
+Annual health check to make sure you're healthy.        
+Monthly team-building events to have a closer relationship with your workmates.
+Company trips.
+Join a badminton team to increase your stamina on multiple days in a week.
+If you are interested in non-trivial tasks, algorithms, working in a team with experienced people, and working on high traffic apps, then submit a resume and send examples of your code (or a link to a profile on GitHub / bitbucket).
+
+Saritasa
+4.4
+Your scalable-total-IT-solution service company.
+
+Company type
+Company industry
+Company size
+IT Outsourcing
+Software Development Outsourcing
+51-150
+Country
+Working days
+Overtime policy
+United States
+Monday - Friday
+Extra salary for OT
+
+
+03. https://itviec.com/it-jobs/senior-tester-qc-lead-sstech-3634?lab_feature=preview_jd_page
+SENIOR TESTER (QC Lead)
+
+SSTech
+1,200 - 1,700 USD
+ SSTECH LTD PTY, Binh Trung, Ho Chi Minh 
+ At office
+ 13 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+100% salary is paid in probation.
+Annual Leave: 12 days/ year.
+Cash out leaves at lunar Tet
+Job description
+We are seeking a practical, experienced Senior Tester to serve as our primary quality gatekeeper and be ready to take responsibility for leading the test team soon. 
+
+In this role, your core mission is to deeply understand project specifications, ensure the development team's code strictly matches business requirements, and safeguard release deadlines:
+- Requirement Clarification: Thoroughly review specifications, communicate with the project team to identify ambiguities, missing logic, and edge cases.
+- Quality Control: Build focused test plans and test scenarios directly mapped to business requirements and acceptance criteria; Work side-by-side with developers daily: log clear, reproducible bug reports and verify fixes promptly to unblock progress.
+- Timeline & Risk Management: Align test schedules with sprint milestones to prevent testing bottlenecks at the end of cycles; Identify and raise early red flags on schedule risks
+For this position, you may work across multiple projects at the same time and support team members in meeting their project requirements and delivery timelines.
+
+Your skills and experience
+- Experience: Years of experience in Software QA /QC, including at least 1 year as a Test Lead or Senior QA responsible for project output.
+- English: Strong English communication skills to align technical requirements and drive day-to-day communication between the Australian team and developers.
+- Requirement Analysis: Exceptional ability to translate complex business logic into actionable, edge-case-proof test cases.
+- Timeline Discipline: Proven capability in managing test priorities against tight release deadlines without sacrificing core quality.
+
+Why you'll love working here
+At SSTech, we focus on web development with emerging technologies providing lots of opportunities to learn new technology, new technical skill and knowledge.
+
+We aim for a friendly and flexible working environment, a work-life balance to provide the best assist for our team members to work effectively.
+
+Other than that, all the members are offered with many benefits:
+
+Attractive salary and benefits 
+13th-month salary & annual salary review.
+Added 1 day leaves/month & Cash out leaves at Lunar New Year (Tet). Furthermore, an additional day of leave will be granted for each year of seniority.
+All benefits under the labor code
+Annual company trip
+Well-equiped working condition
+In-house lunch
+Unlimited free coffee, tea, snacks, and fruit to keep you energized
+Dymanic and friendly working environment in a team of talented and experienced developers.
+🕑Working time: Monday to Friday.
+
+
+04. https://itviec.com/it-jobs/performance-qa-engineer-nakivo-2956?lab_feature=preview_jd_page
+
+Performance QA Engineer
+Nakivo
+1,400 - 1,800 USD
+ TGI Building, 208 Nguyen Trai, Ho Chi Minh 
+ At office
+ 14 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Flexible working hour
+Private health care insurance
+Premium annual health care check
+Job description
+Collaborate with software developers and quality assurance teams to understand project requirements and functionality
+Design, develop, and execute automated test scripts using industry-standard automation tools
+Identify and report software defects in a clear and concise manner
+Work closely with cross-functional teams to analyze test results and troubleshoot issues
+Contribute to the continuous improvement of the automation testing process
+Design, create, and manage automation test cases using AI technologies
+Your skills and experience
+Required Qualifications
+
+Bachelor  degree in Computer Science, Engineering, or related field
+Strong understanding of software development life cycle and testing methodologies
+4 years of experience or more  in relevant positions
+Proficient in at least one programming language (e.g., Java, Python, C#)
+Familiarity with automation testing tools such as Selenium, Appium, or similar
+Basic knowledge of version control systems (e.g., Git)
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills
+Experience with AI-automation testing (e.g., Copilot, Cursor, Perplexity)
+Desired Qualifications:
+
+Experience in working with test automation frameworks (e.g. JUnit, TestNG,
+Selenium WebDriver)
+Understanding of web technologies (HTML, CSS, JavaScript)
+Knowledge of API testing and tools (e.g., Postman, RestAssured)
+Experience with performance testing concepts and tools
+Experience with VMware, Hyper-V, Aws and Cloud storage
+Hands-on experience working with AI technologies
+Why you'll love working here
+The Nakivo team in Vietnam has been changing very fast in the recent years, we have grown from a group of 6 engineers to the current team size of 80 and we are expecting to grow even more in the next following years. 
+
+We welcome and embrace people, regardless of their background, religion, nationality or gender, but focus on diversity, contribution, determination and work ethic. At Nakivo, we are trying to improve everyday, to become a competitive choice for talented people, by offering
+
+Flexible working hours: Office opens from 6.00 AM to 10.00 PM
+13-month bonus & performance bonus
+100% salary on probationary period
+Private health care package
+Healthcare package for family members
+Premium health care check
+Gift (cash/voucher) for every special occasion: New Year's Eve, Tet holidays, International Women's Day, International Children's Day, Mid-Autumn Festival and Birthday
+Up to 18 annual leaves/year, 5 sick leaves and additional leaves (up to 3 days)
+Team building
+Free and un-limited snack, tea, coffee and by-choice request.
+Nakivo
+Providing continuous data protection software for VMware-based virtual servers.
+
+Company type
+Company industry
+Company size
+IT Product
+Software Products and Web Services
+151-300
+Country
+Working days
+Overtime policy
+United States
+Monday - Friday
+No OT
+
+05. https://itviec.com/it-jobs/qa-engineer-claude-code-python-react-manual-tester-brarista-4435?lab_feature=preview_jd_page
+
+QA Engineer (Claude Code, Python, React, Manual Tester)
+Brarista
+800 - 1,000 USD
+ Vietnam, Ho Chi Minh 
+ Vietnam, Da Nang 
+ Vietnam, Ha Noi 
+ Remote (don't have to come to the office)
+ 17 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+We are flexible, don't expect you to be in office.
+No politics, respectful and straightforward.
+We iterate fast and are curious.
+Job description
+We are open to both part-time and full-time applications.
+
+JOB DESCRIPTION
+
+Brarista builds AI fit-assistance for lingerie and apparel brands — a chat assistant and sizing quizzes that are live on real stores today.
+
+When we get a size recommendation wrong, nothing crashes and no alarm goes off. A real person is simply told the wrong size, buys the wrong bra, and sends it back. That is why this role exists: you are the person who catches things before customers do.
+
+You'll work alongside our engineers across the sizing engine, the chat assistant, our client dashboard, and the widgets running on our clients' storefronts.
+
+1. Verify the sizing engine.
+Our system converts sizes across 11 regional systems, handles sister sizing, calculates from measurements, and applies a different size chart for every brand we support. That's thousands of combinations — far more than anyone can check by hand. You'll use Claude Code to generate exhaustive test matrices, build regression suites, and prove that a change to one brand didn't quietly break another.
+
+2. Guard catalogue data quality.
+Our product catalogue is tagged partly by AI, and every product needs a sizing category — which is what makes it billable, so mistakes here cost money directly. You'll verify AI-suggested tags, check assignments against our rules, and find the products that slipped through. This becomes one of the most important things you own.
+
+3. Own release quality and the changelog.
+You'll test what's about to ship and write the release notes our clients read. When something goes out, you're the person who can say what changed and why.
+
+4. Triage what clients report.
+Bug reports and feedback come in from clients. You'll reproduce them, work out what's actually happening, write them up so an engineer can act immediately, and close the loop with the person who reported it.
+
+ 
+
+How will the selection looks like?
+
+Round 1: You will first speak directly with our founder to check mutual suitability. This will be a high-level, open-ended conversation lasting between 15 and 20 minutes.
+Round 2: The second round consists of a take-home assessment, followed by a 45-minute call to discuss your submission. Please rest assured that we never use assessments to solicit free work. The task is designed purely to give you a taste of our domain and provide the best opportunity to showcase your technical abilities.
+Final Round: Should you pass the second round, the final stage is a one-hour call. The first half will be with the wider team you would be working closely with. This is a great opportunity to ask about our culture, day-to-day work, or anything else important to you, allowing everyone to see how we vibe together. For the second half, you will have a 1-on-1 with the founder to discuss the finer details of the role before an official offer is made.
+ 
+
+ 
+
+
+ 
+
+Your skills and experience
+You are genuinely, unusually meticulous. You're the person who spots the inconsistent spacing, the off-by-one in a table, the one row in a spreadsheet where the pattern breaks. This isn't a preference you're describing on a CV — it's how your brain works, and people have told you so.
+
+You're excellent with Claude Code, and you can prove it. We want to see a real project where you used it heavily — what you had it do, what you did yourself, and a specific time it produced something wrong that you caught. That last part is what separates people who use AI tools from people who are good with them.
+
+You think in edge cases. Given a feature, you immediately wonder what happens with an empty value, a duplicate, a weird character, someone clicking twice, or the largest size in the range.
+
+You write clearly, in English. Bug reports an engineer can act on without asking follow-up questions. Release notes a client can understand. You'll be working with UK-based colleagues and writing for international clients.
+
+You're curious about the domain. You'll learn more about bra sizing than you expect to, and the good ones here find that interesting rather than tedious.
+
+Experience level is flexible — if you're early in your career but genuinely sharp with AI tools and relentless about detail, we want to talk to you.
+
+Nice to have
+
+Intercom, Gleap, or similar feedback and bug-reporting tools
+Writing changelogs or release documentation
+Test automation (pytest, Playwright) — or the appetite to learn it fast with Claude Code
+E-commerce experience, especially Shopify
+Why you'll love working here
+Remote and NO politics policy. You will have direct access to the founder and the engineers. You will get to develop your business understandings and upskilling in product management too. Small team, no layers, no one to route your idea through.
+Goal-first. We care about what ships and what it does for clients — no office politics, no mandatory socials, no ceremony for its own sake.
+AI-first, genuinely. Our whole team works with Cursor and Claude Code, and much of our code is AI-authored under human review. You'll get better at working with these tools here than almost anywhere else.
+Real ownership from month one. Within three months the catalogue verification queue is yours, and the sizing regression suite is something you built.
+Your work is visible. Clients read your release notes. Your bug reports change what ships. Nothing you do disappears into a backlog.
+We move fast - which is exactly why we need someone whose job is to make sure fast doesn't mean sloppy.
+Brarista
+Brarista
+
+Company type
+Company industry
+Company size
+IT Product
+Creative and Design
+1-50
+Country
+Working days
+Overtime policy
+United Kingdom
+Monday - Friday
+No OT
+
+06. https://itviec.com/it-jobs/junior-software-test-engineer-cong-ty-tnhh-salary-viet-nam-1258?lab_feature=preview_jd_page
+
+Junior Software Test Engineer
+Công ty TNHH Salary (Việt Nam)
+500 - 740 USD
+ Toa nha Saigon Paragon, 3 Nguyen Luong Bang, Tan My, Ho Chi Minh 
+ At office
+ 31 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Job description
+Position Overview
+
+We seek a motivated and detail-oriented Junior Software Test Engineer to join our QA team. In this role, you will ensure the quality and reliability of our software products through manual and automated testing, increasingly augmented by AI-powered QA tools. You will work closely with developers and other stakeholders to identify issues, report defects, and contribute to the continuous improvement of our development processes. This is an excellent opportunity to build a solid foundation in modern, AI-assisted software quality assurance and grow your technical skills.
+
+ 
+
+Key Responsibilities
+
+Develop, execute, and maintain manual and automated test cases based on software requirements and design specifications, leveraging AI-assisted tools such as OpenClaw and GitHub Copilot to accelerate test creation and coverage.
+Perform various types of testing, including functional, regression, integration, and API testing, using AI-driven tools to identify high-risk areas and optimize test prioritization.
+Identify and document software defects, using AI tools to help generate clear, detailed bug reports that are then imported into Azure DevOps for tracking.
+Collaborate with the development team to reproduce issues and verify fixes.
+Contribute to building and maintaining automated test scripts, using OpenClaw, GitHub Copilot, and AI-powered self-healing automation to improve efficiency and reduce maintenance overhead.
+Explore and adopt emerging AI QA tools (e.g., test generation, visual regression, intelligent test analytics) and share findings with the team.
+Contribute to the continuous improvement of QA processes and methodologies.
+Your skills and experience
+Qualifications and Requirements
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field.
+Approximately 1 year of experience in Software Quality Assurance and/or software development. (Fresh graduates with relevant project experience or a strong passion for QA are also encouraged to apply.)
+Foundational understanding of software testing life cycles (STLC), testing methodologies, and best practices.
+Hands-on experience with both black-box and white-box testing techniques.
+Experience with API testing using tools like Postman or similar.
+Familiarity with defect and test management tools such as Azure DevOps, Jira, QC, or MTM.
+Openness to learning and applying AI-powered QA tools such as OpenClaw and GitHub Copilot in daily testing work.
+Strong analytical and problem-solving skills, with keen attention to detail.
+Good oral and written English communication skills.
+ 
+
+Preferred Qualifications (Nice-to-Have)
+
+Exposure to or academic project experience with test automation frameworks such as Selenium, Playwright, etc.
+Hands-on or learning experience with AI-assisted testing tools, particularly OpenClaw and GitHub Copilot.
+Basic knowledge of a programming or scripting language (e.g., Java, C#, Python, JavaScript) is a plus.
+ 
+
+Personal Attributes
+
+Self-motivated and a proactive fast learner, with the ability to quickly grasp new technologies and AI tools.
+A collaborative team player with excellent interpersonal skills.
+A positive thinker with a strong sense of ownership and responsibility.
+Why you'll love working here
+Working Hours: 8:00 AM - 5:00 PM, Monday to Friday
+Salary: 12.000.000 - 20.000.000 (based on skills and experience)
+Coffee and tea available in the office
+The company will provide a desktop computer and other necessary work equipment
+Career development opportunities in line with the advancement of smart technology
+An open work environment with challenging projects
+Ample learning and growth opportunities, with an emphasis on technological innovation
+A company culture that values teamwork and individual development
+Công ty TNHH Salary (Việt Nam)
+Công ty TNHH Salary (Việt Nam)
+
+Company type
+Company industry
+Company size
+IT Product
+IT Services and IT Consulting
+1-50
+Country
+Working days
+Overtime policy
+Vietnam
+Monday - Friday
+No OT
+
+
+07. https://vn.indeed.com/viewjob?jk=8dceda7084544d7b&from=shareddesktop_copy
+
+
+HCM10 Automation Tester (Fresher/ Junior/ Senior level)
+Rikkeisoft
+•
+Thành phố Hồ Chí Minh
+•
+40,000,000 VNĐ a month
+Apply on company site
+
+
+
+Job details
+Here’s how the job details align with your profile.
+Pay
+
+40,000,000 VNĐ a month
+Full job description
+- Tham gia các dự án của công ty, cả web và mobile (đa dạng cả nghiệp vụ và khách hàng): - Tìm hiểu và làm rõ yêu cầu thông qua tài liệu requirement từ khách hàng. - Thực hiện viết và chạy testcase - Báo cáo công việc với leader, PM - Phối hợp với các thành viên trong dự án để đảm bảo công việc - Trao đổi/báo cáo với khách hàng (nếu có thể và được yêu cầu) - Kết hợp với PQA để tổng hợp các issue dự án, đánh giá các thông số chất lượng dự án sau release. - Tham gia vào công việc đào tạo nâng cao năng lực cho bản thân và các thành viên khác.
+
+Trả theo năng lực (upto 35mil + thưởng dự án mỗi tháng) - LƯƠNG: Tối thiểu 13 tháng lương/năm. Xét TĂNG 2 lần/năm. - THƯỞNG: thưởng Tết, thưởng dự án, thưởng ngày lễ, thưởng giới thiệu nhân sự... - Phụ cấp Chứng chỉ Tiếng Nhật (JLPT từ N3) và tiếng Anh (IELTS từ 6.0) theo yêu cầu của Trưởng Bộ phận. - Phụ cấp thâm niên ( thời gian làm việc từ 2 năm trở lên). - Tham gia các hoạt động học tập, đào tạo trong và ngoài công ty, tích điểm học tập, phát triển G-Point trên hệ thống Quản lý của công ty. - Nghỉ thứ 7, chủ nhật + 12 ngày phép/ năm (Cộng dồn tối đa 20 ngày phép/năm, các ngày phép còn thừa sau cộng dồn sẽ được trả 500.000đ/ngày) - Câu lạc bộ và nhiều hoạt động văn hóa - thể thao - nghệ thuật được công ty tài trợ hoặc hỗ trợ (Ví dụ: Bóng đá, bóng bàn, cầu lông, bơi lội, âm nhạc, tiếng anh, game...) - Đảm bảo sức khỏe: Khám sức khỏe định kỳ, hỗ trợ mua bảo hiểm sức khỏe chất lượng cao... - Tham gia Chương trình bảo hiểm sức khỏe Rikkei Care. - Thoải mái tinh thần: Phát nhạc theo yêu cầu mỗi ngày, hoa quả tươi, các hoạt động teambuilding gắn kết... Đi chơi gần xa khắp nơi. - Cơ hội làm việc tại nước ngoài và du lịch khắp nơi
+
+Tuyển dụng automation tester ở các level: Fresher, Junior, Middle, Senior - Ưu tiên các ứng viên có background IT - Hiểu quy trình test sản phẩm - Hiểu về quy trình hoạt động của bug - Chấp nhận Fresher nếu: + Có skill coding + Có kiến thức về OOP, interface, abstract class là lợi thế + Tiếng Anh: đọc/viết tốt (có thể nghe nói ở mức cơ bản là lợi thế) - Đối với ứng viên Junior level trở lên: + Có kinh nghiệm thực tế về Selenium + Kinh nghiệm về automation test: từ 1 năm trở lên + Có kinh nghiệm ít nhất 1 trong những ngôn ngữ sau: Java, Python, C#, PHP, NodeJS + Có kinh nghiệm về manual là lợi thế + Có kiến thức về OOP, interface, abstract class là lợi thế + Tiếng Anh: đọc/viết tốt (có thể nghe nói ở mức cơ bản là lợi thế)
+
+
+
+08. https://itviec.com/it-jobs/manual-tester-qa-qc-cong-ty-co-phan-tap-doan-cong-nghe-quang-ich-qig-3723?lab_feature=preview_jd_page
+
+Manual Tester (QA QC)
+Công ty cổ phần Tập đoàn Công nghệ Quảng Ích (QIG)
+500 - 1,200 USD
+ 46 LePARC by Gamuda, Công Viên Yên Sở, Ha Noi 
+ At office
+ 2 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Top 3 reasons to join us
+Lương, thưởng rõ ràng, đóng bảo hiểm full lương
+Nhiều cơ hội thăng tiến tốt
+Môi trường trong lành, gần gũi với thiên nhiên
+Job description
+Lập test plan, viết test case, chuẩn bị dữ liệu và môi trường test.
+Thực hiện kiểm thử, phát hiện lỗi và phối hợp với các developer để sửa lỗi.
+Log bugs, đánh giá mức độ quan trọng và mức độ khẩn cấp của bug.
+Phân tích và theo dõi kết quả test, báo cáo kết quả test.
+Tham gia nghiên cứu và đề xuất các cải tiến các chức năng, quy trình kiểm thử sản phẩm.
+Phân tích nghiệp vụ và lập test case.
+Đào tạo, chuyển giao nghiệp vụ cho team CSKH và Vận hành ứng dụng.
+Your skills and experience
+Có từ 2 năm trở lên kinh nghiệm Tester.
+Nhanh nhẹn, chăm chỉ, khả năng học hỏi cao, và có trách nhiệm trong công việc.
+Nắm vững và hiểu biết sâu về quy trình Test, các kỹ thuật Testing.
+Có kinh nghiệm Test trên một trong các nền tảng các ứng dụng Web, Web Application, Mobile Application là một lợi thế.
+Có kỹ năng làm teamwork hoạt động đội nhóm tốt.
+Ưu tiên những ứng viên có kinh nghiệm làm việc với phần mềm có tính nghiệp vụ cao.
+Why you'll love working here
+Mức lương theo kinh nghiệm ứng viên: từ 13-25tr triệu/tháng
+Chế độ đãi ngộ: Đóng bảo hiểm full lương; thưởng lễ, Tết, thưởng dự án và các chế độ phúc lợi chung của công ty
+Chế độ lương làm thêm giờ (OT) theo đúng quy định của pháp luật.
+Phụ cấp ngoài lương: Ăn trưa, gửi xe...
+Thưởng cuối năm: tháng lượng 13 + thưởng KPI phụ thuộc vào hiệu quả công việc cá nhân, bộ phận và tình hình kinh doanh của công ty.
+Môi trường làm việc: Chuyên nghiệp, cởi mở, ứng dụng công nghệ mới và AI vào công việc hàng ngày, được tạo điều kiện để phát huy tối đa năng lực, nhiều cơ hội thăng tiến.
+Xét nâng lương định kỳ 1 lần/ năm và đột xuất nếu hoàn thành xuất sắc công việc
+Nghỉ mát tại khách sạn 5 sao.
+Công ty cổ phần Tập đoàn Công nghệ Quảng Ích (QIG)
+3.8
+Công ty Cổ Phần Phần Mềm Quảng Ích
+
+Company type
+Company industry
+Company size
+IT Product
+Education and Training
+51-150
+Country
+Working days
+Overtime policy
+Vietnam
+Monday - Saturday
+Extra salary for OT
+
+09. https://itviec.com/it-jobs/automation-tester-qa-qc-tester-japanese-n3-trustedai-2550?lab_feature=preview_jd_page
+
+Automation Tester (QA QC/ Tester/ Japanese N3+)
+TrustedAI
+800 - 1,500 USD
+ Tầng 06, Số 385 Hoàng Quốc Việt, Phường Nghĩa Đô, Ha Noi 
+ At office
+ 2 days ago
+Skills:
+Job Expertise:
+Job Domain:
+Job description
+Thiết kế quy trình kiểm thử cho từng dự án, thiết kế phạm vi test rủi ro từ đầu dự án
+Thực hiện kiểm thử chức năng (functional testing), kiểm thử hồi quy (regression testing) tương thích trên nhiều trình duyệt/thiết bị cho từng bản release
+Kiểm thử đa ngôn ngữ (tiếng Nhật, tiếng Việt, tiếng Anh)
+Phát hiện, ghi nhận, phân loại lỗi (bug report) rõ ràng, đầy đủ bước tái hiện; theo dõi đến khi lỗi được xử lý
+Phối hợp chặt chẽ với đội Product và Dev để làm rõ yêu cầu, xác nhận lỗi đã fix, và đề xuất cải thiện trải nghiệm sản phẩm
+Tự động hóa quy trình test
+Xây dựng và duy trì bộ tài liệu test case, checklist QC theo thời gian
+Your skills and experience
+Trên 3 năm kinh nghiệm tại vị trí tương đương, có kinh nghiệm làm Leader Test
+Có kinh nghiệm Dev
+Tự viết được test plan, test case, quy trình quản lý bug cho một dự án mới
+Tư duy mở (open-mindedness), logic, tỉ mỉ, chủ động trong công việc
+Có kinh nghiệm xây dựng và thực hiện Automation Test, ứng dụng AI vào các tác vụ test
+Có tiếng Nhật tối thiểu từ N3
+Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh
+Đã từng test sản phẩm AI/chatbot hoặc sản phẩm liên quan đến xử lý ngôn ngữ tự nhiên là điểm cộng
+Why you'll love working here
+Thu nhập upto 35M, thỏa thuận theo năng lực
+Môi trường startup AI, tham gia trực tiếp vào sản phẩm đang go-to-market quốc tế
+Cơ hội học hỏi về AI/RAG, quy trình QC cho sản phẩm SaaS hướng thị trường Nhật Bản
+Đầy đủ các chế độ BHXH, thưởng lễ, Tết, tháng lương 13, Teambuilding,…
+TrustedAI
+Empowering humanity through trusted AI
+
+Company type
+Company industry
+Company size
+IT Product
+AI Software & Services
+1-50
+Country
+Working days
+Overtime policy
+Vietnam
+Monday - Friday
+No OT
+
+
+10. https://itviec.com/it-jobs/middle-qa-automation-engineer-playwright-selenium-fpt-digital-4422?lab_feature=preview_jd_page
+
+Middle QA Automation Engineer (Playwright, Selenium)
+FPT Digital
+800 - 1,500 USD
+ FPT Tower, 10 Phạm Văn Bạch, P. Dịch Vọng, Q. Cầu Giấy, Hà Nội, Việt Nam, Cau Giay, Ha Noi 
+ At office
+ 6 hours ago
+Skills:
+Job Expertise:
+Job Domain:
+Job description
+1. Automation Testing (Core Focus):
+
+Design, build, and maintain automated test scripts using frameworks such as Playwright, Selenium, or Cypress for core system workflows.
+Integrate automated test suites into CI/CD pipelines to ensure release quality and continuous delivery.
+Perform API testing (using Postman, RestAssured, or API automation libraries) and execute regular regression testing.
+ 
+
+2. Test Strategy & Quality Mindset:
+
+Analyze business requirements (SRS/User Stories) and Acceptance Criteria to create comprehensive Test Plans and Test Cases covering Happy Paths, Edge Cases, and Boundary Conditions.
+Conduct functional testing (Web/App UI), workflow validations, and perform SQL database checks to verify data integrity and consistency.
+Log, track, and manage defect lifecycles on Jira; collaborate closely with Developers and PMs to resolve issues efficiently.
+3. AI & LLM Feature Testing:
+
+Test AI/LLM-driven product features (e.g., AI Chatbots, automated data extraction, RAG workflows).
+Evaluate AI output quality based on established criteria: accuracy, completeness, source attribution, and detection of AI hallucinations (incorrect or fabricated responses).
+Test different prompt variations to compare performance, answer stability, and response consistency.
+Leverage modern AI tools (ChatGPT, Claude, Copilot) to accelerate test case generation, test data creation, and script writing.
+Your skills and experience
+1. Experience & Quality Assurance:
+
+Bachelor’s Degree in Computer Science, Information Technology, or a related field.
+2–4 years of experience in software testing (Manual and Automation).
+Strong QA Mindset: Excellent analytical skills, attention to detail, strong logic for identifying system flaws, edge cases, and effective bug-hunting.
+ 
+
+2. Automation & Tech Stack (Must-have):
+
+Proficiency in at least one UI Automation framework (Playwright, Selenium, or Cypress) with corresponding programming languages (JavaScript/TypeScript, Python, or Java).
+Solid hands-on experience in API testing with Postman or API automation libraries.
+Proficiency in writing SQL queries to query, validate, and verify system database records.
+3. AI Exposure & Willingness to Learn:
+
+Prior experience testing AI/LLM features OR active use of GenAI assistants (ChatGPT, Claude, etc.) in daily QA workflows.
+Open, curious mindset with a strong passion for specializing in AI Quality Assurance.
+Why you'll love working here
+Hands-on experience testing GenAI applications, LLM Chatbots, or Big Data systems.
+Familiarity setting up CI/CD test automation pipelines (GitHub Actions, GitLab CI, Jenkins).
+Basic understanding of RAG (Retrieval-Augmented Generation) architecture or prompt engineering principles.
+FPT Digital
+FPT Digital
+
+Company type
+Company industry
+Company size
+IT Service and IT Consulting
+IT Services and IT Consulting
+1-50
+Country
+Working days
+Overtime policy
+Vietnam
+Monday - Friday
+No OT

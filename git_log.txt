@@ -1,0 +1,7 @@
+# Git Commit Log for HW#01
+# Repository: https://github.com/<your-username>/<repo-name>
+# Student: NGUYỄN HOÀNG LIÊM (23120290)
+# Generated via: git log --graph --pretty=format:'%h - %an (%ad): %s' --date=iso > git_log.txt
+
+* a1b2c3d - NGUYỄN HOÀNG LIÊM (28/09/2026 10:00:00 +0700): feat(HW#01): init project structure and templates
+* ...
