@@ -103,9 +103,9 @@
 ### 1.4 QA/QC Role Mindmap (CLO G9.1)
 - Prompt to AI tool to draw mindmap.
 - **3 Critical Mistakes in AI Mindmap Identified & Corrected:**
-  1. *Mistake 1:* ...
-  2. *Mistake 2:* ...
-  3. *Mistake 3:* ...
+  1. *Mistake 1:* "Designs Unit Tests" in "Manual Tester". Unit tests are typically written by developers (white-box), not manual testers. Corrected to "Exploratory Testing".
+  2. *Mistake 2:* "Approves Final Budget" in "Automation Engineer". Budget approval is a Project Manager or Sponsor role, not an Automation Engineer's responsibility. Corrected to "Maintains Test Environments".
+  3. *Mistake 3:* "Writes Production ML Models" in "AI Quality Engineer". AI Quality Engineers validate and audit the outputs of ML models, whereas Data Scientists or ML Engineers write the actual production models. Corrected to "Evaluates LLM Accuracy".
 - Visual Mindmap attached in `evidence/mindmap.png`.
 
 ---

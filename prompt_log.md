@@ -69,3 +69,22 @@
 - **Student Audit Verdict:** VALID
 - **ISTQB / Slide Reference:** Course Syllabus G9.1 (ISTQB mindmap)
 - **Student Modification:** Identified the 3 injected mistakes for reporting.
+
+### Artifact #3: QA/QC Role Mindmap Mistake Fix
+- **Timestamp:** 2026-09-26T18:11:38
+- **AI Tool:** Antigravity (Gemini 3.1 Pro)
+- **Verbatim Prompt:**
+  ```text
+  I found 3 mistake:
+  1. "Designs Unit Tests" in "Manual Tester"
+  2. "Approves Final Budget" in "Automation Engineer"
+  3. "Writes Production ML Models" in "AI Quality Engineer"
+  Fix them and run ai-logger
+  ```
+- **Verbatim AI Response Summary:**
+  ```text
+  Updated mindmap.puml, replacing the mistakes with Exploratory Testing, Maintains Test Environments, and Evaluates LLM Accuracy. Re-rendered mindmap.png.
+  ```
+- **Student Audit Verdict:** VALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.1 (ISTQB mindmap)
+- **Student Modification:** Prompted the AI to correct the previously identified mistakes.

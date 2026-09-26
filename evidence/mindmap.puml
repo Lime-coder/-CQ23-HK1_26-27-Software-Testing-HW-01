@@ -3,15 +3,15 @@
 ** Manual Tester
 *** Executes Test Cases
 *** User Acceptance Testing
-*** Designs Unit Tests
+*** Exploratory Testing
 ** Automation Engineer
 *** UI/API Test Scripts
 *** CI/CD Integration
-*** Approves Final Budget
+*** Maintains Test Environments
 ** AI Quality Engineer
 *** Hallucination Auditing
 *** RAG Output Validation
-*** Writes Production ML Models
+*** Evaluates LLM Accuracy
 ** QA Lead / Manager
 *** Test Strategy formulation
 *** Resource Allocation
