@@ -111,14 +111,15 @@
 ---
 
 ## Requirement 2: 20 Software Defects (2022–2026) Analysis (20 pts)
-> **Mandatory Rule:** For EVERY single defect (1 through 20), identify exactly 1 place where the AI is biased or hallucinates when explaining the defect (20 total instances).
+> **Mandatory Rules:**
+> - **20 software defects** publicized between 2022 and 2026, including **≥ 5 AI/LLM-related defects** (hallucination, prompt injection, bias).
+> - Each entry includes: **Source Link, Description, Severity, Consequences, Solution**, plus **Domain** and **AI Hallucination / Bias Identified** (1 identified instance per defect = 20 instances total).
 
-| No. | Defect Title & Year | Domain / System | Severity & Root Cause | AI Hallucination / Bias Identified | Human Verification & Reality |
-|:---:|:---|:---|:---|:---|:---|
-| 1 | CrowdStrike Falcon Sensor Outage (2024) | Cybersecurity / OS Kernel | Catastrophic (Null pointer / C++ logic error) | AI claimed it was a cyberattack/malware infection | Verified root cause was corrupted Channel File 291 logic in CS agent |
-| 2 | ... | ... | ... | ... | ... |
-| ... | ... | ... | ... | ... | ... |
-| 20 | ... | ... | ... | ... | ... |
+| No. | Defect Title & Year | Domain | Source Link | Description | Severity | Consequences | Solution | AI Hallucination / Bias Identified |
+|:---:|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1 | ... | ... | ... | ... | ... | ... | ... | [Pending Audit] |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 20 | ... | ... | ... | ... | ... | ... | ... | [Pending Audit] |
 
 ---
 
