@@ -15,20 +15,90 @@
 - All screenshots with login username watermark stored in `evidence/jobs/`.
 
 ### 1.2 Ten Job Market Analyses (Detailed Profiles)
-1. Job #1: ...
-2. Job #2: ...
-3. Job #3: ...
-4. Job #4: ...
-5. Job #5: ...
-6. Job #6: ...
-7. Job #7: ...
-8. Job #8: ...
-9. Job #9: ...
-10. Job #10: ...
+
+**1. Sr. QA Engineer (YUM! Digital & Technology)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/sr-qa-engineer-from-6yoe-automation-english-yum-digital-technology-5203)
+- **Dated Screenshot:** `evidence/jobs/job_1.png`
+- **Job Description:** Define and drive testing strategy across platforms, build/maintain automation frameworks, perform manual testing for edge cases, lead defect management.
+- **Required Skills:** 6+ years in QA, test automation (Playwright, Cypress, Selenium, Appium), agile environment, communication in English.
+- **Salary:** $2,000 - $2,900
+- **AI Impact Analysis:** While AI is not explicitly mentioned as a required skill, given the scale (YUM! Commerce) and need for scalable automation, AI tools could augment test script generation. Traditional automation still holds strong at the senior enterprise level.
+
+**2. QA Engineer (Tester, QA QC) (Saritasa)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/qa-engineer-tester-qa-qc-english-up-to-1500-saritasa-4856)
+- **Dated Screenshot:** `evidence/jobs/job_2.png`
+- **Job Description:** Work on VR/AR, IoT, web/mobile projects. Understand specifications, apply testing techniques, document bugs in detail (screenshots/videos).
+- **Required Skills:** 3+ years Manual QA, knowledge of testing techniques, JMeter/Postman. "Comfortable using AI tools to speed up test design and daily work."
+- **Salary:** $1,000 - $1,500
+- **AI Impact Analysis:** This role explicitly states that being comfortable with AI tools to speed up test design is a preferred skill. AI is becoming a baseline productivity booster even for manual QA positions.
+
+**3. SENIOR TESTER (QC Lead) (SSTech)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/senior-tester-qc-lead-sstech-3634)
+- **Dated Screenshot:** `evidence/jobs/job_3.png`
+- **Job Description:** Requirement clarification, quality control, build focused test plans mapped to business requirements, log bugs and verify fixes.
+- **Required Skills:** Senior QA/Test Lead experience, strong English, requirement analysis, timeline discipline.
+- **Salary:** $1,200 - $1,700
+- **AI Impact Analysis:** While this QC Lead role focuses on manual and management skills without explicit AI requirements, an AI-augmented QA could significantly speed up requirement analysis and initial test plan drafting, freeing up the lead for strategic risk management.
+
+**4. Performance QA Engineer (Nakivo)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/performance-qa-engineer-nakivo-2956)
+- **Dated Screenshot:** `evidence/jobs/job_4.png`
+- **Job Description:** Design and execute automated test scripts, troubleshoot issues, create and manage automation test cases using AI technologies.
+- **Required Skills:** 4+ years experience, Java/Python/C#, Selenium/Appium. "Experience with AI-automation testing (e.g., Copilot, Cursor, Perplexity)."
+- **Salary:** $1,400 - $1,800
+- **AI Impact Analysis:** This position treats AI literacy (Copilot, Cursor) as a core competency for performance and automation testing. AI tools are no longer optional but are actively expected for generating test cases and troubleshooting.
+
+**5. QA Engineer (Claude Code, Python, React) (Brarista)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/qa-engineer-claude-code-python-react-manual-tester-brarista-4435)
+- **Dated Screenshot:** `evidence/jobs/job_5.png`
+- **Job Description:** Verify the AI sizing engine, guard catalogue data quality (verify AI-suggested tags), own release quality, triage client reports.
+- **Required Skills:** Unusually meticulous, "excellent with Claude Code", think in edge cases, clear English writing.
+- **Salary:** $800 - $1,000
+- **AI Impact Analysis:** This is a quintessential 2026+ "AI-first" QA role where the tester is not just using AI to test, but testing AI outputs directly. The requirement to use Claude Code to generate exhaustive test matrices shows AI is the primary test generation engine.
+
+**6. Junior Software Test Engineer (Salary VN)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/junior-software-test-engineer-cong-ty-tnhh-salary-viet-nam-1258)
+- **Dated Screenshot:** `evidence/jobs/job_6.png`
+- **Job Description:** Develop and execute manual/automated tests leveraging AI-assisted tools (OpenClaw, Copilot) to accelerate creation and coverage.
+- **Required Skills:** 1 year experience, foundational STLC, API testing. "Openness to learning and applying AI-powered QA tools such as OpenClaw and GitHub Copilot in daily testing work."
+- **Salary:** $500 - $740
+- **AI Impact Analysis:** Even at the junior level, companies are mandating the adoption of AI-powered QA tools to maximize early-career efficiency. It highlights that freshers must now learn AI-assisted testing alongside fundamental STLC.
+
+**7. HCM10 Automation Tester (Rikkeisoft)**
+- **Link:** [indeed.com](https://vn.indeed.com/viewjob?jk=8dceda7084544d7b)
+- **Dated Screenshot:** `evidence/jobs/job_7.png`
+- **Job Description:** Write and run test cases, clarify requirements, report bugs, coordinate with project members.
+- **Required Skills:** IT background, STLC, OOP knowledge, Selenium, Java/Python/C#, English.
+- **Salary:** 40,000,000 VNĐ
+- **AI Impact Analysis:** A standard high-paying automation role. Although AI isn't explicitly listed, candidates who use AI to generate boilerplate Selenium scripts and OOP test structures will have a massive speed advantage in such demanding agency environments.
+
+**8. Manual Tester (QA QC) (QIG)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/manual-tester-qa-qc-cong-ty-co-phan-tap-doan-cong-nghe-quang-ich-qig-3723)
+- **Dated Screenshot:** `evidence/jobs/job_8.png`
+- **Job Description:** Create test plans, write test cases, perform testing, log bugs, business analysis.
+- **Required Skills:** 2+ years Manual Testing, deep knowledge of testing techniques, teamwork. "Ứng dụng công nghệ mới và AI vào công việc hàng ngày" (applying new tech and AI).
+- **Salary:** $500 - $1,200
+- **AI Impact Analysis:** The company culture emphasizes applying AI in daily work, proving that even purely manual QA roles in domestic enterprises expect testers to leverage AI for test case writing and bug analysis to stay competitive.
+
+**9. Automation Tester (QA QC/Tester/Japanese) (TrustedAI)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/automation-tester-qa-qc-tester-japanese-n3-trustedai-2550)
+- **Dated Screenshot:** `evidence/jobs/job_9.png`
+- **Job Description:** Design test processes, functional/regression testing, automate testing, build test case documents for an AI startup.
+- **Required Skills:** 3+ years experience, N3+ Japanese. "Kinh nghiệm xây dựng và thực hiện Automation Test, ứng dụng AI vào các tác vụ test" (Experience in automation testing, applying AI to test tasks).
+- **Salary:** $800 - $1,500
+- **AI Impact Analysis:** Working at an AI startup requires the tester to both test AI/RAG systems and apply AI to their own automation tasks. Testing NLP and conversational AI is becoming a distinct, high-value QA specialization.
+
+**10. Middle QA Automation Engineer (FPT Digital)**
+- **Link:** [itviec.com](https://itviec.com/it-jobs/middle-qa-automation-engineer-playwright-selenium-fpt-digital-4422)
+- **Dated Screenshot:** `evidence/jobs/job_10.png`
+- **Job Description:** Automation testing (Playwright/Selenium), CI/CD integration, test AI/LLM features (chatbots, RAG), evaluate AI output for hallucinations.
+- **Required Skills:** 2-4 years experience, UI Automation, API testing, SQL. "Prior experience testing AI/LLM features OR active use of GenAI assistants (ChatGPT, Claude, etc.) in daily QA workflows."
+- **Salary:** $800 - $1,500
+- **AI Impact Analysis:** This role encapsulates the modern QA hybrid: you must know traditional automation (Playwright), but you are also directly responsible for "hunting" AI hallucinations and evaluating LLM outputs using prompt engineering principles.
 
 ### 1.3 AI Impact on QA/QC Roles & Emerging Skills
-- Shifts in manual vs automated vs AI-augmented QA roles.
-- Essential competencies for 2026+.
+- **Shifts in QA Roles:** The lines between Manual, Automation, and AI-Augmented QA are blurring. We are moving from testers who solely write scripts to "AI Auditors" who evaluate non-deterministic LLM outputs (e.g., Brarista, TrustedAI, FPT Digital). Companies expect even junior and manual testers to use AI tools like Copilot or Cursor to multiply their productivity.
+- **Essential Competencies for 2026+:** Prompt engineering, familiarity with LLM testing frameworks, recognizing AI hallucinations, and combining AI-assisted code generation with traditional automation tools (Selenium, Playwright). Adapting to AI is no longer a "nice-to-have" but a mandatory survival skill in the 2026+ QA market.
 
 ### 1.4 QA/QC Role Mindmap (CLO G9.1)
 - Prompt to AI tool to draw mindmap.

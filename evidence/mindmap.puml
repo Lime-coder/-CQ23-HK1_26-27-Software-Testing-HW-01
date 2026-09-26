@@ -1,0 +1,19 @@
+@startmindmap
+* QA/QC Roles
+** Manual Tester
+*** Executes Test Cases
+*** User Acceptance Testing
+*** Designs Unit Tests
+** Automation Engineer
+*** UI/API Test Scripts
+*** CI/CD Integration
+*** Approves Final Budget
+** AI Quality Engineer
+*** Hallucination Auditing
+*** RAG Output Validation
+*** Writes Production ML Models
+** QA Lead / Manager
+*** Test Strategy formulation
+*** Resource Allocation
+*** Defect Triage
+@endmindmap
