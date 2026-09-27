@@ -51,41 +51,8 @@ verdict = "[Pending Audit]"
 istqb_ref = "[Pending Audit]"
 student_fix = "[Pending Audit]"
 
-# --- UPDATE prompt_log.md ---
-prompt_log_entry = f"""
----
 
-### Artifact #{artifact_num}: {artifact_name}
-- **Timestamp:** {timestamp}
-- **AI Tool:** {tool}
-- **Model:** Gemini 3.1 Pro
-- **Verbatim Prompt:**
-  ```text
-{verbatim_prompt}
-  ```
-- **Verbatim AI Response:**
-  ```text
-{verbatim_response}
-  ```
-- **Student Audit Verdict:** {verdict}
-- **ISTQB / Slide Reference:** {istqb_ref}
-- **Student Modification:** {student_fix}
-"""
-with open(os.path.join(HW_DIR, "prompt_log.md"), "a", encoding="utf-8") as f:
-    f.write(prompt_log_entry)
-
-# --- UPDATE ai_audit_report.md ---
-clean_prompt = verbatim_prompt[:150].replace('\n', ' ')
-clean_response = verbatim_response[:150].replace('\n', ' ')
-audit_row = f"| **Artifact #{artifact_num}**<br>Tool: {tool}<br>Time: {timestamp}<br>Prompt: \"{clean_prompt}...\" | {clean_response}... | **{verdict}** | {istqb_ref} | {student_fix} |\n"
-audit_file = os.path.join(HW_DIR, "reports", "ai_audit_report.md")
-with open(audit_file, "r", encoding="utf-8") as f:
-    lines = f.readlines()
-lines.append(audit_row)
-with open(audit_file, "w", encoding="utf-8") as f:
-    f.writelines(lines)
-
-# --- UPDATE DOCX ---
+# --- UPDATE DOCX ONLY ---
 ai02_files = [os.path.join(HW_DIR, "ai_templates", f) for f in os.listdir(os.path.join(HW_DIR, "ai_templates")) if "AI-02" in f]
 if not ai02_files:
     print("ERROR: No [AI-02] docx found!")
@@ -151,4 +118,4 @@ run = target_row.cells[4].paragraphs[0].add_run(student_fix)
 run.font.size = Pt(9)
 
 doc.save(doc_path)
-print("Updated all logs successfully!")
+print("Updated DOCX successfully!")
