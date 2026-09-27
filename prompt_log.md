@@ -282,9 +282,9 @@ Begin.
 | 4 | Air Canada Chatbot Misinformation (2024) | AI/LLM | https://www.bbc.com/news/world-us-canada-68307703 | An AI chatbot on the Air Canada website provided incorrect information regarding the airline's refund policies, specifically hallucinating a "Companion Fare Free" policy for grieving passengers. | Medium | Financial loss for the customer who relied on the chatbot, and subsequent legal liability and reputational damage for Air Canada. | The airline was ordered to compensate the passenger. Chatbot was temporarily disabled and policies were updated to ensure accurate retrieval. | [Pending Audit] |
 | 5 | Uber Internal Network Breach (2022) | Ride-Hailing | https://www.uber.com/newsroom/security-update/ | An attacker compromised an Uber contractor's account and gained extensive access to internal systems. The attacker bypassed MFA by exploiting a vulnerability in the Duo Push notification system to force an approval. | Critical | Access to internal AWS environments, Slack channels, and HackerOne vulnerability reports, causing a major internal security shutdown. | Re-authenticate all employees, rotate internal secrets, and strengthen MFA policies to require number-matching. | [Pending Audit] |
   ```
-- **Student Audit Verdict:** [Pending Audit]
-- **ISTQB / Slide Reference:** [Pending Audit]
-- **Student Modification:** [Pending Audit]
+- **Student Audit Verdict:** INVALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.3 (Analyse) - Audit AI artifacts. Found hallucinated technical details.
+- **Student Modification:** Identified fake details. Manually researched and provided corrections.
 
 ---
 
@@ -308,9 +308,9 @@ For Uber, the attacker didn't exploit vulnerability in Duo Push, they actually u
   ```text
 [Tool calls executed silently to correct Batch 1 and insert Batch 2 into main_report.md]
   ```
-- **Student Audit Verdict:** [Pending Audit]
-- **ISTQB / Slide Reference:** [Pending Audit]
-- **Student Modification:** [Pending Audit]
+- **Student Audit Verdict:** VALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.4 (Collaborate) - Pair AI + human.
+- **Student Modification:** None - AI applied my corrections.
 
 ---
 
@@ -334,9 +334,9 @@ For 23andMe, the hackers stole the data entirely through credential stuffing and
   ```text
 [Tool calls executed silently to correct Batch 2 and insert Batch 3 into main_report.md]
   ```
-- **Student Audit Verdict:** [Pending Audit]
-- **ISTQB / Slide Reference:** [Pending Audit]
-- **Student Modification:** [Pending Audit]
+- **Student Audit Verdict:** INVALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.3 (Analyse) - Audit AI artifacts. Found hallucinated technical details.
+- **Student Modification:** Identified fake details. Manually researched and provided corrections.
 
 ---
 
@@ -355,9 +355,9 @@ After I approve, then we can move on to batch 4
   ```text
 [Tool calls executed silently to replace defects 5, 11, 13, 14 in main_report.md with actual software defects and inject 1 hallucination per new defect]
   ```
-- **Student Audit Verdict:** [Pending Audit]
-- **ISTQB / Slide Reference:** [Pending Audit]
-- **Student Modification:** [Pending Audit]
+- **Student Audit Verdict:** VALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.4 (Collaborate) - Pair AI + human.
+- **Student Modification:** None - AI applied my corrections.
 
 ---
 
@@ -381,9 +381,9 @@ For 23andMe, the hackers stole the data entirely through credential stuffing and
   ```text
 [Tool calls executed silently to correct Batch 3 and insert Batch 4 into main_report.md]
   ```
-- **Student Audit Verdict:** [Pending Audit]
-- **ISTQB / Slide Reference:** [Pending Audit]
-- **Student Modification:** [Pending Audit]
+- **Student Audit Verdict:** INVALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.3 (Analyse) - Audit AI artifacts. Found hallucinated technical details.
+- **Student Modification:** Identified fake details. Manually researched and provided corrections.
 
 ---
 
@@ -407,6 +407,6 @@ For the Tesla FSD "Rolling Stop" recall, the car rolling through stop signs was 
   ```text
 [Tool calls executed silently to update reports/main_report.md with final Batch 4 corrections]
   ```
-- **Student Audit Verdict:** [Pending Audit]
-- **ISTQB / Slide Reference:** [Pending Audit]
-- **Student Modification:** [Pending Audit]
+- **Student Audit Verdict:** VALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.4 (Collaborate) - Pair AI + human.
+- **Student Modification:** None - AI applied my corrections.
