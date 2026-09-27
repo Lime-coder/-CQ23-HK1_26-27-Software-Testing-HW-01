@@ -140,22 +140,24 @@
 
 ## Requirement 3: Physical Product Testing (25 pts)
 ### 3.1 Device Identification (Anti-Cheat)
-- **Product Name & Type:** [e.g., Xiaomi Smart Standing Fan 2 / Philips Electric Kettle]
-- **Brand & Model:** ...
-- **Manufacture Year:** ...
+- **Product Name & Type:** Enchen K8 Pocket Shaver
+- **Brand & Model:** Enchen / K8
+- **Manufacture Year:** 2023
 - **Serial Number:** `SN1234****7890` *(Middle 4 characters masked)*
 - **Anti-Cheat Verification Photo:** Real photo of physical product + physical Student ID card in the SAME frame (located at `evidence/device_photo_with_id.jpg`).
 
-### 3.2 Test Cases Design (15 Test Cases Total)
+### 3.2 Test Cases Design (18 Test Cases Total)
 - Comprehensive test cases covering normal, boundary, and stress conditions.
-- Test case spreadsheet in `test_artifacts/HW01_TestCases.xlsx`.
+- 18 Test cases designed in a markdown table, referenced in `test_artifacts/HW01_TestCases.md`.
 
 ### 3.3 Three AI-Missed Edge Cases (Crucial Requirement)
-1. **Edge Case 1:** ...
+1. **Edge Case 1: Magnetic Misalignment**
    - *AI Conversation Proof:* Screenshot in `evidence/ai_missed_edge1.png` showing AI failed to propose this case.
-   - *Technical Explanation:* Why the AI missed this real-world physics/hardware constraint.
-2. **Edge Case 2:** ...
-3. **Edge Case 3:** ...
+   - *Technical Explanation:* LLMs lack physical intuition regarding physical tolerances, material flex, or the mechanical geometry of off-center magnetic latching.
+2. **Edge Case 2: Charge-State Race Condition**
+   - *Technical Explanation:* AI struggles to anticipate simultaneous physical-electrical input collisions characteristic of budget hardware circuit boards that lack software-level debouncing.
+3. **Edge Case 3: Mechanical / Thermal Overload**
+   - *Technical Explanation:* LLMs do not innately understand motor stall torque, physical force resistance, or thermal runaway risks unless explicitly trained on the specific appliance's hardware schematics.
 
 ### 3.4 Execution Evidence & Demo Videos (≥ 5 Videos)
 - 5 real execution demo videos (≤ 60s each) with **own voice narration** (no TTS):

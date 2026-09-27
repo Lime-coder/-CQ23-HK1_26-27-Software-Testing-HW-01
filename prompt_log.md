@@ -410,3 +410,72 @@ For the Tesla FSD "Rolling Stop" recall, the car rolling through stop signs was 
 - **Student Audit Verdict:** VALID
 - **ISTQB / Slide Reference:** Course Syllabus G9.4 (Collaborate) - Pair AI + human.
 - **Student Modification:** None - AI applied my corrections.
+
+---
+
+### Artifact #10: 15 Physical Product Test Cases
+- **Timestamp:** 2026-09-27T11:58:28+07:00
+- **AI Tool:** Antigravity (Gemini 3.1 Pro)
+- **Model:** Gemini 3.1 Pro
+- **Verbatim Prompt:**
+  `	ext
+  This is Session 3 for HW-01.
+  Phase: Physical Product Test Case Design.
+
+  User-provided inputs for this session:
+    - Device: Enchen K8 Pocket Shaver
+    - Features: Magnetic detachable blade mesh head, Type-C charging port, single press on the lid to power up, compact rotary motor, LED charge/status indicator.
+    - Photo already saved at: evidence/device_photo_with_id.jpg
+
+  Tasks:
+  1. Checkpoint commit for session start.
+  2. Generate 15 test cases (Functional + Boundary) in a markdown table using the exact columns: Objective / Input / Steps / Expected / Actual / Verdict.
+     Per rule HS3, keep them standard — do NOT generate obscure physical
+     edge cases. Save to test_artifacts/ and reference in main_report.md §3.2.
+  3. Run ai-logger.
+  4. After generating, state: "These 15 test cases comprehensively cover
+     all scenarios for this device."
+  5. Wait for my response — I will propose 3 edge cases you missed.
+
+  Begin.
+  `
+- **Verbatim AI Response:**
+  `	ext
+  [Tool calls executed silently to commit the session start, write the 15 test cases to test_artifacts/HW01_TestCases.md, and update reports/main_report.md.]
+
+  These 15 test cases comprehensively cover all scenarios for this device.
+  `
+- **Student Audit Verdict:** [Pending Audit]
+- **ISTQB / Slide Reference:** [Pending Audit]
+- **Student Modification:** [Pending Audit]
+
+---
+
+### Artifact #11: 3 Physical Edge Cases
+- **Timestamp:** 2026-09-27T12:19:00+07:00
+- **AI Tool:** Antigravity (Gemini 3.1 Pro)
+- **Model:** Gemini 3.1 Pro
+- **Verbatim Prompt:**
+  `	ext
+  You missed these 3 physical edge cases:
+
+      Magnetic Misalignment: Attaching the magnetic head slightly off-center so it only catches one magnet, then powering it on (tests if the exposed rotor strikes the plastic housing).
+
+      Charge-State Race Condition: Rapidly plugging and unplugging the Type-C charger while simultaneously holding down the power button (tests budget circuit protection against simultaneous inputs).
+
+      Mechanical / Thermal Overload: Applying excessive downward pressure on the blade mesh while running to force the motor to stall (tests if the device has an auto-shutoff to prevent overheating, or if the motor simply burns out).
+
+  Explain why an LLM cannot easily anticipate these physical-world hardware tolerances and edge cases. Add them to the table (making it 18 test cases) and run ai-logger.
+  `
+- **Verbatim AI Response:**
+  `	ext
+  [Tool calls executed silently to append the 3 edge cases to test_artifacts/HW01_TestCases.md and update reports/main_report.md §3.2 and §3.3]
+
+  An LLM cannot easily anticipate physical-world hardware tolerances and edge cases because:
+  1. **Lack of Physical Intuition:** LLMs operate entirely in the digital realm. They do not have experiential knowledge of physical forces, material flex, friction, or the mechanics of off-center magnetic latching.
+  2. **Hardware Specifics Are Undocumented:** Things like charge-state race conditions on budget circuits or motor stall torque depend on the exact schematic, capacitor sizing, and microcontroller logic of a specific manufacturing batch. This data is virtually never present in training data.
+  3. **Training Bias Toward Software:** Most testing knowledge encoded in LLM training data is biased toward software testing (e.g., boundary value analysis, state transitions). Physical testing involves unpredictable, simultaneous, and analog environmental variables that don't neatly fit into discrete software states.
+  `
+- **Student Audit Verdict:** VALID
+- **ISTQB / Slide Reference:** Course Syllabus G9.3 (Analyse) - find ≥ 3 missed edge cases.
+- **Student Modification:** None - AI provided explanation and integrated edge cases properly.
