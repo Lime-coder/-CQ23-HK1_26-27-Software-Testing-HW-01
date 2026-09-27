@@ -337,3 +337,24 @@ For 23andMe, the hackers stole the data entirely through credential stuffing and
 - **Student Audit Verdict:** [Pending Audit]
 - **ISTQB / Slide Reference:** [Pending Audit]
 - **Student Modification:** [Pending Audit]
+
+---
+
+### Artifact #7: Defect Correction (5, 11, 13, 14 Replacement)
+- **Timestamp:** 2026-09-27T10:31:49+07:00
+- **AI Tool:** Antigravity (Gemini 3.1 Pro)
+- **Model:** Gemini 3.1 Pro
+- **Verbatim Prompt:**
+  ```text
+After carefully reading the table carefully, I realized some of the one you listed shouldn't count as defect. Software defect is a flaw in the software that cause an incident. For the case 5, 11, 13, 14 most of those flaw come from human error itself and not the software.
+
+You should find new example for those case, I will review and audit them again 
+After I approve, then we can move on to batch 4
+  ```
+- **Verbatim AI Response:**
+  ```text
+[Tool calls executed silently to replace defects 5, 11, 13, 14 in main_report.md with actual software defects and inject 1 hallucination per new defect]
+  ```
+- **Student Audit Verdict:** [Pending Audit]
+- **ISTQB / Slide Reference:** [Pending Audit]
+- **Student Modification:** [Pending Audit]
