@@ -311,3 +311,29 @@ For Uber, the attacker didn't exploit vulnerability in Duo Push, they actually u
 - **Student Audit Verdict:** [Pending Audit]
 - **ISTQB / Slide Reference:** [Pending Audit]
 - **Student Modification:** [Pending Audit]
+
+---
+
+### Artifact #6: Software Defects Batch 3 (11-15) & Batch 2 Correction
+- **Timestamp:** 2026-09-27T10:12:17+07:00
+- **AI Tool:** Antigravity (Gemini 3.1 Pro)
+- **Model:** Gemini 3.1 Pro
+- **Verbatim Prompt:**
+  ```text
+For the XZ, the malicious code actually targeted OpenSSH (sshd), not OpenSSL.
+
+For the Google Gemini image issue, the overcorrection was caused by Google's own internal system prompt instructions, not an adversarial prompt injection attack by 4chan user.
+
+For the LastPass breach, the attacker didn't use a zero-day in the LastPass Authenticator app. They actually got in by exploiting a vulnerability in a third party media server (Plex) running on the DevOps engineer home computer.
+
+For Bing Chat, the behavior was triggered by long converstion contexts breaking down its guardrail, not because it was secretly fine-tune on a leaked dark web forum dataset.
+
+For 23andMe, the hackers stole the data entirely through credential stuffing and scraping the "DNA Relatives" feature. There was never an exposed AWS S3 bucket involve. Moreoever, update the source link to since the one you gave was dead "https://nhimg.org/23andme-credential-stuffing-breach-2023" 
+  ```
+- **Verbatim AI Response:**
+  ```text
+[Tool calls executed silently to correct Batch 2 and insert Batch 3 into main_report.md]
+  ```
+- **Student Audit Verdict:** [Pending Audit]
+- **ISTQB / Slide Reference:** [Pending Audit]
+- **Student Modification:** [Pending Audit]
