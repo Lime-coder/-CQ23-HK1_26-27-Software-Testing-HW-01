@@ -384,3 +384,29 @@ For 23andMe, the hackers stole the data entirely through credential stuffing and
 - **Student Audit Verdict:** [Pending Audit]
 - **ISTQB / Slide Reference:** [Pending Audit]
 - **Student Modification:** [Pending Audit]
+
+---
+
+### Artifact #9: Defect Correction (Batch 4 Hallucinations)
+- **Timestamp:** 2026-09-27T11:05:28+07:00
+- **AI Tool:** Antigravity (Gemini 3.1 Pro)
+- **Model:** Gemini 3.1 Pro
+- **Verbatim Prompt:**
+  ```text
+For Log4Shell, the fake detail is "exclusively affected Java versions strictly below 8u121, making newer systems immune by default." While newer Java versions mitigated one specific attack vector by default, Log4j itself was still highly vulnerable to other RCE chains and Denial of Service regardless of the Java version.  
+
+For the Okta Support System Breach, the attackers didn't use an "SQL injection in the login.aspx page." They actually used a compromised service account and extracted stolen session tokens from HAR files that customers had uploaded to support tickets.   
+
+For the Samsung Exynos Modem Baseband RCE, the flaw was triggered by malicious Session Description Protocol (SDP) packets sent over VoLTE or Wi-Fi calling using just the victim's phone number. It had nothing to do with sending a "malformed WhatsApp message"
+
+For the Ivanti Connect Secure Zero-Day, the attackers didn't bounce connections through a "Tor network built into the appliance." The appliance doesn't have a built-in Tor network.
+
+For the Tesla FSD "Rolling Stop" recall, the car rolling through stop signs was actually an intentional feature programmed into Tesla's "Assertive" driving profile. It was not because the AI "misclassified stop signs as speed limit signs due to a bug in the YOLOv4 object detection pipeline".
+  ```
+- **Verbatim AI Response:**
+  ```text
+[Tool calls executed silently to update reports/main_report.md with final Batch 4 corrections]
+  ```
+- **Student Audit Verdict:** [Pending Audit]
+- **ISTQB / Slide Reference:** [Pending Audit]
+- **Student Modification:** [Pending Audit]
